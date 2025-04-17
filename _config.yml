@@ -13,9 +13,9 @@ title                    : "Donald F. Ferguson/Academic Website"
 title_separator          : "-"
 name                     : &name "Donald F. Ferguson"
 description              : &description "Ansys Fellow at Ansys, Inc. and adjunct professor in the Dept. of Computer Science, Columbia University."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://donald-f-ferguson.github.io/dff-academic/  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://donald-f-ferguson.github.io/dff-academic/"
+repository               : "https://github.com/donald-f-ferguson/dff-academic"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
