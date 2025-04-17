@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Donald F. Ferguson/Academic Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Donald F. Ferguson"
+description              : &description "Ansys Fellow at Ansys, Inc. and adjunct professor in the Dept. of Computer Science, Columbia University."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "dff-avatar.jpeg"
+  name             : "Cool Sidebar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : ""
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
